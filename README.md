@@ -1,3 +1,2 @@
-# Mobile Assignment 3 
-## Name: Jean-Paul Saliba 
-## Student Id: 100741759
+# Mobile_Assignment_3
+Calorie counting app
